@@ -15,7 +15,7 @@
   },
   "main": "lib/index.js",
   "dependencies": {
-    "@algolia/client-common": "^4.20.0",
+    "@algolia/client-common": "^4.22.0",
     "@algolia/transporter": "^4.20.0",
     "@babel/preset-typescript": "^7.23.2",
     "@types/jest": "^27.5.2",
