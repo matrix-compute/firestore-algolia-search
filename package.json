@@ -9,7 +9,7 @@
     "prepare": "husky install && cd functions && npm install"
   },
   "devDependencies": {
-    "@commitlint/cli": "^16.3.0",
+    "@commitlint/cli": "^17.0.0",
     "@commitlint/config-conventional": "^16.2.4",
     "detect-indent": "^7.0.1",
     "detect-newline": "^4.0.1",
